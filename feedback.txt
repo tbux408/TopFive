@@ -1,0 +1,3 @@
+Mason Gelletly (masongelletly), Caroline Joseph (carolinej), Tatiana Monteiro (mtatiana20), Quinn Anderson (quinnanderson)
+
+It was helpful that they provided descriptions for their top 5 lists, however more comments in the code would be useful to understand what is going on. Overall, it is a good start to the program.
